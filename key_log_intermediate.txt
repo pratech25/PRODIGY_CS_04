@@ -1,0 +1,3 @@
+[2025-08-13 18:29:44] ppython[space][backspace]k
+[2025-08-13 18:29:50] [backspace][space]ket[backspace]ylo
+[2025-08-13 18:35:07] print[shift]([shift]
